@@ -26,3 +26,16 @@ Make your ft_printf compile with any combination of the following flags:
 *	`#`: For `o` conversions, the first character of the output string is made zero. For `x` and `X` conversions, a nonzero result has the string "0x".
 *	`+`: A sign (+ or -) should always be placed before a number produced by a signed conversion.
 *	`' '`: A blank should be left before a positive number (or empty string) produced by a signed conversion.
+
+---
+
+## Contact
+
+If you have any questions feel free to reach out!
+
+* **Github:** [TheLink-42](https://github.com/TheLink-42)
+* **Slack:** [jbaeza-c](https://42born2code.slack.com/team/U05RS80818A)
+
+---
+
+Check other projects [here](https://github.com/TheLink-42/42-Journey)
