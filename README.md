@@ -1,4 +1,11 @@
+<div align="center">
+
+![FT_PRINTF](https://github.com/TheLink-42/42-project-badges/blob/main/badges/ft_printfe.png)
 # 42 Ft_printf
+
+</div>
+
+---
 
 ## MANDATORY
 
